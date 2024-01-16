@@ -40,4 +40,5 @@ Ghosts transition through various states, each dictating their behavior:
 ### Installation
 
 1. Clone or download this repository.
-2. Open `.
+2. Import offical Sound Library
+3. Run Gamerunner.pde
