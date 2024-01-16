@@ -22,15 +22,6 @@ The ghost characters in "Pac-Dude" use a variety of pathfinding algorithms to cr
 - **Scatter Mode**: Ghosts temporarily stop chasing Pac-Dude and retreat to their home corners, giving players short breaks.
 - **Frightened Mode**: When Pac-Dude consumes a power pellet, ghosts enter a vulnerable state where their movement becomes erratic, providing an opportunity for Pac-Dude to catch them.
 
-## Ghost States
-
-Ghosts transition through various states, each dictating their behavior:
-
-1. **Chase**: Focus on catching Pac-Dude using their unique pathfinding methods.
-2. **Scatter**: Retreat to their respective corners, changing their pathfinding targets.
-3. **Frightened**: Random movement, making them vulnerable to Pac-Dude.
-4. **Eaten**: Once caught, they return to the ghost house before re-entering the game.
-
 Images from Game: 
 
 <img width="728" alt="Screen Shot 2024-01-15 at 8 50 33 PM" src="https://github.com/esohel30/Pacdude/assets/90656205/52595eff-ce77-44dc-bf17-f423b8efba6b">
