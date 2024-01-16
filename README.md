@@ -33,7 +33,11 @@ Ghosts transition through various states, each dictating their behavior:
 
 Images from Game: 
 
-
+<img width="728" alt="Screen Shot 2024-01-15 at 8 50 33 PM" src="https://github.com/esohel30/Pacdude/assets/90656205/52595eff-ce77-44dc-bf17-f423b8efba6b">
+<img width="728" alt="Screen Shot 2024-01-15 at 8 50 40 PM" src="https://github.com/esohel30/Pacdude/assets/90656205/e8fe91cf-e79b-42aa-b29d-22b7ee03c723">
+<img width="728" alt="Screen Shot 2024-01-15 at 8 57 39 PM" src="https://github.com/esohel30/Pacdude/assets/90656205/01d96ab4-8772-4088-9b46-7f7d96156fdd">
+<img width="728" alt="Screen Shot 2024-01-15 at 8 56 34 PM" src="https://github.com/esohel30/Pacdude/assets/90656205/566374f9-888c-4be5-9821-4beef7f24e17">
+<img width="728" alt="Screen Shot 2024-01-15 at 8 58 22 PM" src="https://github.com/esohel30/Pacdude/assets/90656205/6fc0145e-ed7d-4a77-acea-4b629f20026c">
 
 ## Getting Started
 
