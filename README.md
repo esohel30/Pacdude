@@ -31,6 +31,10 @@ Ghosts transition through various states, each dictating their behavior:
 3. **Frightened**: Random movement, making them vulnerable to Pac-Dude.
 4. **Eaten**: Once caught, they return to the ghost house before re-entering the game.
 
+Images from Game: 
+
+
+
 ## Getting Started
 
 ### Prerequisites
